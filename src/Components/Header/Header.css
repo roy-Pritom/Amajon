@@ -1,0 +1,18 @@
+.header{
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:19px 60px;
+}
+.header a{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: 'Lato';
+}
+.header a:hover{
+    color: orange;
+}
