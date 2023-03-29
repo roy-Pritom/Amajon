@@ -7,6 +7,7 @@ const Cart = ({cart}) => {
     let quantity=0;
     let totalPrice=0;
     let totalShippingCharge=0;
+    // console.log(cart)
     for(const element of cart)
     {
         if(element.quantity===0)
