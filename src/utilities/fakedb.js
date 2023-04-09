@@ -41,4 +41,4 @@ export {
     removeFromDb,
     getShoppingCart,
     deleteShoppingCart
-}
+};
